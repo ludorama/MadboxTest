@@ -16,7 +16,20 @@ What I could have done better:
 - No scoring, which is a shame. But you can win and receive a nice Log entry tho :), and an automatic restart
 - As I said before I forgot how to make a sine animation, so the wreckage trap swing weirdly. Hope nobody will have their eyes exploding while looking at it :(
 
-I guess that's everything. It was an awesome test, a very good reason to go back at full on Unity development again, gamejam-like (my home). Thanks Mr. Thomas for your time and appreciation, and hopefully it matches your expectations. Best regards,
+What would I do a setp further:
+- 3 more AI players (I actually had it, but I didn't had the time to make each trackpoint delivering their offset points aligned with the track - again, shame not having a spline system!)
+- Track splitting and shortcuts, so users might need to choose between moving forward or trying a different path
+- Moving platforms, which is pretty much default but I lacked the time to
+- Slopes and jumps - again, lack of time to properly test movement behaviors
+- Items perhaps, Mariokart-like? Not sure about it, but could work
+
+What do I think
+- It was an awesome test, a very good reason to go back at full on Unity development again, gamejam-like (where I feel home).
+- I thought it would be much worse than it actually went, so it felt sort of reassuring for me that all those Unity years are not gone from my veins. I'm working mostly with UE4/C++ for the last 3 years or so, with Unity sparsely on my personal projects. Thought this could ruin this test for me.
+- If that's how the job goes, BRING IT ON! :)
+
+
+I guess that's everything. Thanks Mr. Thomas for your time and appreciation, and hopefully it matches your expectations. Best regards,
 
 
 
